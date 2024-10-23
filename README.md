@@ -40,12 +40,10 @@ yang dimiliki oleh mahasiswa, yaitu NIM dan Jurusan.</p>
 
 ## Output
 
-![output](https://github.com/user-attachments/assets/326e7535-a46a-4654-9723-cb65e588a5d6)
-
+![output](https://github.com/Ditaa30/praktikum3.java/commit/5943fa2c497749b8d8efb54f999b037f7ddb6b46)
 <p>• Implementasikan java kode diagram pada class berikut :</p>
 
-![Screenshot 2024-10-23 110520](https://github.com/user-attachments/assets/2aeb4053-b891-4871-a919-24392e0b7300)
-
+![diagrampegawai](diagrampegawai.png)
 <p>- Menampilkan class Pegawai</p>
 
 ```
@@ -171,4 +169,4 @@ public class Main {
 
 ## Output
 
-![output (2)](https://github.com/user-attachments/as
+![output (2)](
